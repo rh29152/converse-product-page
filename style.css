@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 /* body styling  */
@@ -11,11 +12,6 @@ body {
     line-height: 1;
 }
 
-/* div containter styling 
-.container {
-   
-
-} */
 
 /* article(product) styling */
 .product {
