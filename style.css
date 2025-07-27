@@ -46,6 +46,13 @@ body {
     height: auto;
 }
 
+
+/* flex layout */
+.container {
+ display: flex;
+ justify-content: space-between;
+}
+
 .product__price {
     font-size: 30px;
     font-weight: bold;
